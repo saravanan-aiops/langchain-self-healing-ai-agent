@@ -1,5 +1,8 @@
 <img width="1859" height="962" alt="image" src="https://github.com/user-attachments/assets/28dd1cd1-30a3-4c58-a2a3-a65e5f205075" />
 
+<img width="1822" height="825" alt="image" src="https://github.com/user-attachments/assets/8df9d362-aa37-4b3f-8c27-eb5323b0e72d" />
+
+
 # Self-Healing AI Agent
 
 An Agentic AI-powered self-healing infrastructure automation platform built using LangChain, Ollama, FastAPI, and local LLMs.
