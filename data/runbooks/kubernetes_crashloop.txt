@@ -1,0 +1,10 @@
+CrashLoopBackOff usually occurs because:
+- missing env variables
+- wrong image
+- database unavailable
+- port binding issue
+
+Remediation:
+1. kubectl describe pod
+2. kubectl logs
+3. restart deployment
